@@ -36,6 +36,7 @@ int[,] GetSpiral(int n)
                         row--;            
         }
     }
+    int circleLength;
     return result;
 }
 
